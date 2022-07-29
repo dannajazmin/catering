@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+   
+}
+
+.imagen {
+    width: 100%;
+    height: 100%;
+}
+
+
+body {
+    background-color: rgb(142, 208, 224);
+}
+
+.break 
+{
+    height: 380px;
+    margin-right: 0px;
+    
+}
+.card {
+    
+    background-color: rgb(199, 255, 252);
+   
+}
+
+.break {
+    margin-bottom: 70px;
+}
